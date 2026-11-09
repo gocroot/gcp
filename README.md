@@ -1,5 +1,9 @@
 # Deplong Golang CI/CD to Google Cloud Platform
 
+> **Repo ini sudah tidak dipakai dan diarsipkan.** Gunakan **[GoCroot Core](https://github.com/gocroot/core)**: satu template Go (`net/http`) untuk Google Cloud Run functions, VPS, web hosting, dan Docker. Dokumentasi: **https://gocroot.if.co.id/**
+>
+> **This repository is archived and no longer maintained.** Use **[GoCroot Core](https://github.com/gocroot/core)** instead: one Go template (`net/http`) for Google Cloud Run functions, VPS, web hosting, and Docker. Documentation: **https://gocroot.if.co.id/**
+
 This is a simple Golang Model-Controller template using [Functions Framework for Go](https://github.com/GoogleCloudPlatform/functions-framework-go) and mongodb.com as the database host. It is compatible with Google Cloud Function CI/CD deployment.
 
 Start here: Just [Fork this repo](https://github.com/gocroot/gcp/)
