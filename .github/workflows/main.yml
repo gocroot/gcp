@@ -31,7 +31,7 @@ jobs:
             --allow-unauthenticated \
             --entry-point=WebHook \
             --gen2 \
-            --runtime=go122 \
+            --runtime=go127 \
             --trigger-http \
             --timeout=540s \
             --set-env-vars MONGOSTRING='${{ secrets.MONGOSTRING }}',PHONENUMBER='${{ secrets.PHONENUMBER }}'
